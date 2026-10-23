@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 53 53"
+    style="shape-rendering: auto; display: block;">
+    <rect x="0" y="0" width="25" height="25" fill="rgb(100, 100, 100)">
+        <animate
+            attributeName="fill"
+            values="rgb(100, 100, 100) ; rgb(0, 0, 0) ; rgb(0, 0, 0) ; rgb(0, 0, 0) ; rgb(100, 100, 100)"
+            dur="2s"
+            repeatCount="indefinite" />
+    </rect>
+    <rect x="28" y="0" width="25" height="25" fill="rgb(0, 0, 0)">
+        <animate
+            attributeName="fill"
+            values="rgb(0, 0, 0) ; rgb(100, 100, 100) ; rgb(0, 0, 0) ; rgb(0, 0, 0) ; rgb(0, 0, 0)"
+            dur="2s"
+            repeatCount="indefinite" />
+    </rect>
+    <rect x="0" y="28" width="25" height="25" fill="rgb(0, 0, 0)">
+        <animate
+            attributeName="fill"
+            values="rgb(0, 0, 0); rgb(0, 0, 0) ; rgb(100, 100, 100) ; rgb(0, 0, 0) ; rgb(0, 0, 0)"
+            dur="2s"
+            repeatCount="indefinite" />
+    </rect>
+    <rect x="28" y="28" width="25" height="25" fill="rgb(0, 0, 0)">
+
+        <animate
+            attributeName="fill"
+            values="rgb(0, 0, 0); rgb(0, 0, 0) ; rgb(0, 0, 0) ; rgb(100, 100, 100) ; rgb(0, 0, 0)"
+            dur="2s"
+            repeatCount="indefinite" />
+    </rect>
+</svg>
